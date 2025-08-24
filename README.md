@@ -1,6 +1,6 @@
 
 
-Fullstackullstack Hi there, I'm GlassPear167! 👋
+## Hi there, I'm GlassPear167! 👋
 
 Welcome to my GitHub profile!  
 I'm **GlassPear167**, a passionate **Junior Fullstack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I love learning new technologies, building real-world projects, and collaborating with other developers.
@@ -41,7 +41,7 @@ I'm **GlassPear167**, a passionate **Junior Fullstack Developer** specializing i
 ---
 
 Thanks for stopping by my profile! 🚀  
-Let's learn and build together!ivityoffee fuels my creativity and code!
+Let's learn and build together!
 
 
 
