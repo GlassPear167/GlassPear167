@@ -19,12 +19,12 @@ I'm **GlassPear167**, a passionate **Junior Fullstack Developer** specializing i
 
 ## 🧰 Technologies & Tools
 
-- **Languages:** JavaScript (ES6+), TypeScript (beginner)
-- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
+- **Languages:** JavaScript (ES6+), 
+- **Frontend:** React.js, HTML5, CSS3
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Version Control:** Git & GitHub
-- **Others:** REST API, Postman, npm/yarn, VS Code
+- **Others:** REST API, Postman, npm, VS Code
 
 ---
 
@@ -34,6 +34,14 @@ I'm **GlassPear167**, a passionate **Junior Fullstack Developer** specializing i
 - 🎮 Sometimes I unwind with video games or coding mini-games.
 - 📚 Believe in lifelong learning — always reading about the latest tech trends.
 - ☕ Coffee fuels my creativity and code!
+
+---
+
+
+---
+
+Thanks for stopping by my profile! 🚀  
+Let's learn and build together!ivityoffee fuels my creativity and code!
 
 ---
 
