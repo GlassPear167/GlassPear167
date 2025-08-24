@@ -35,7 +35,7 @@ I'm **GlassPear167**, a passionate **Junior Fullstack Developer** specializing i
 - 📚 Believe in lifelong learning — always reading about the latest tech trends.
 - ☕ Coffee fuels my creativity and code!
 
----
+
 
 
 ---
@@ -43,10 +43,5 @@ I'm **GlassPear167**, a passionate **Junior Fullstack Developer** specializing i
 Thanks for stopping by my profile! 🚀  
 Let's learn and build together!ivityoffee fuels my creativity and code!
 
----
 
 
----
-
-Thanks for stopping by my profile! 🚀  
-Let's learn and build together!
