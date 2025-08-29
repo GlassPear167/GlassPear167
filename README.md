@@ -20,11 +20,11 @@ I'm **GlassPear167**, a passionate **Junior Fullstack Developer** specializing i
 ## 🧰 Technologies & Tools
 
 - **Languages:** JavaScript (ES6+), 
-- **Frontend:** React.js, HTML5, CSS3
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Version Control:** Git & GitHub
-- **Others:** REST API, Postman, npm, VS Code
+- **Frontend:** React.js - in progres, HTML5, CSS3
+- **Backend:** Node.js, Express.js - in progress queue
+- **Database:** MongoDB -in progress queue
+- **Version Control:** Git & GitHub -in the progress queue
+- **Others:** REST API -in progress queue, Postman -in progress queue, npm, VS Code
 
 ---
 
